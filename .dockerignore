@@ -1,0 +1,13 @@
+# ignore
+deploy
+node_modules
+
+.git
+.gitignore
+.gitlab-ci.yml
+
+*.md
+*.dockerfile
+
+.env*
+.dockerignore
